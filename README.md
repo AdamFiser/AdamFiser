@@ -1,7 +1,7 @@
 ### Hi there 👋 :-D
 <p>
   <samp>
-    My name is Adam and I´m a Czech Software & solutions architect, analyst and occasional teacher with a passion for IoT, FVE and economy
+    My name is Adam and I´m a Czech Software & solutions architect, analyst and occasional teacher with a passion for 🪴plants, IoT, FVE and economy
   </samp>
 </p>
 
